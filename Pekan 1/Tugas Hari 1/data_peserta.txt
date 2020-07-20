@@ -1,6 +1,0 @@
-Data Peserta Sanbercode Bootcamp ReactJS
-1. Nama: Sofiyantini
-2. Email: copsfi1291@gmail.com
-3. Sistem Operasi yang digunakan: Windows 10
-4. Akun Github: https://github.com/Sofiyantini
-5. Akun Telegram: @copsfi
