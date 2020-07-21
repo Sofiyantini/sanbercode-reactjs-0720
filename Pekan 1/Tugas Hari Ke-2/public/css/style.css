@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    background-image: url(../css/pattern.jpg);
+}
+
+header {
+    background-color: white;
+    
+}
+
+.logo {
+    float: left;
+}
+
+nav {
+    float: right;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+li {
+    display: inline-block;
+    margin: 0;
+    padding-top: 20px;
+    padding-right: 15px;
+}
+
+h1 {
+    margin: 0;
+    padding-top: 20px;
+    text-align: center;
+    font-family: 'Slabo 27px';
+    font-style: normal;
+    font-weight: bold;
+}
+
+section {
+    margin-top: 10px;
+    margin-left: 175px;
+    margin-right: 175px;
+    background-color: white;
+}
+
+#article-list {
+    padding: 15px;
+    text-align: justify;
+    
+}
+
+p {
+   font-size: 16px;
+}
+
+footer {
+    background-color: black;
+    height: 40px;
+    padding: 0;
+    margin: 0;
+}
+
+h5 {
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+
